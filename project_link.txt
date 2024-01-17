@@ -1,0 +1,15 @@
+1. Scrape Data: 
+Github: (https://github.com/bmyadav91/flipkart_web_scrape_python_flask)
+Live Link: (https://flipkart-search-web-scrape.onrender.com/)
+
+2. external APIs and displays: 
+Github: (https://github.com/bmyadav91/fetching_external_api_openweather)
+Live Link: (https://fetching-external-api-openweather-to.onrender.com/)
+
+3. Google OAuth2: 
+Github: (https://github.com/bmyadav91/flask-Google-OAuth2)
+Live Link: (https://flask-google-oath2.onrender.com/)
+
+4. Flask Recommendation System:
+Github: (https://github.com/bmyadav91/simple-flask-recommendation-system)
+Live Link: (https://simple-flask-recommendation-system.onrender.com/)
